@@ -55,6 +55,13 @@ A selection of repositories from my GitHub. The illustrations link directly to t
   <a href="https://github.com/almoatasembellah/foora-web"><img src="./assets/projects/foora-web.svg" width="49%" alt="Foora Web — Laravel games, venues, stadiums and profile routes" /></a>
 </p>
 
+
+<p align="center">
+  <a href="https://github.com/almoatasembellah/applicant-workflow"><img src="./assets/projects/applicant-workflow.svg" width="100%" alt="Applicant Workflow — Google Apps Script applicant documentation workflow; private source repository" /></a>
+</p>
+
+<sub>Private source repository · sanitized project overview · source access is restricted.</sub>
+
 **More frontend and experiments:** [Bank Landing Page](https://github.com/almoatasembellah/Bank-landing-page.frontend) · [Product Store UI](https://github.com/almoatasembellah/a-product-store) · [Explore all repositories](https://github.com/almoatasembellah?tab=repositories)
 
 <img src="./assets/divider.svg" width="100%" alt="Section divider" />
