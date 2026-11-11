@@ -37,6 +37,13 @@
   <a href="https://github.com/almoatasembellah/foora-web"><img src="./assets/projects/foora-web.svg" width="49%" alt="Foora Web" /></a>
 </p>
 
+
+<p align="center">
+  <a href="https://github.com/almoatasembellah/applicant-workflow"><img src="./assets/projects/applicant-workflow.svg" width="100%" alt="Applicant Workflow — نظام إدارة ملفات المتقدمين باستخدام Google Apps Script؛ الكود خاص" /></a>
+</p>
+
+<sub>المصدر محفوظ في مستودع خاص · الوصف المعروض عام ولا يتضمن بيانات المتقدمين أو ملفاتهم.</sub>
+
 [صفحة بنك — Frontend](https://github.com/almoatasembellah/Bank-landing-page.frontend) · [واجهة متجر](https://github.com/almoatasembellah/a-product-store) · [كل المستودعات](https://github.com/almoatasembellah?tab=repositories)
 
 <img src="./assets/divider.svg" width="100%" alt="فاصل" />
