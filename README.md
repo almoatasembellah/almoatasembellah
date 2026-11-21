@@ -47,7 +47,7 @@ I'm a **backend developer and IT support engineer** with experience across appli
 A selection of repositories from my GitHub. The illustrations link directly to the source code.
 
 <p align="center">
-  <a href="https://github.com/almoatasembellah/law-firm"><img src="./assets/projects/law-firm.svg" width="100%" alt="Al Mahfouz Law Firm — live law firm website with contact requests and a role-based admin dashboard" /></a>
+  <a href="https://github.com/almoatasembellah/law-firm"><img src="./assets/projects/law-firm-card.svg" width="100%" alt="Al Mahfouz Law Firm — live law firm website with contact requests and a role-based admin dashboard" /></a>
 </p>
 
 <sub>Live at <a href="https://almahfouzlawfirm.com">almahfouzlawfirm.com</a> · plain PHP MVC, MySQL, cPanel deployment.</sub>
@@ -63,7 +63,7 @@ A selection of repositories from my GitHub. The illustrations link directly to t
 
 
 <p align="center">
-  <a href="https://github.com/almoatasembellah/applicant-workflow"><img src="./assets/projects/applicant-workflow.svg" width="100%" alt="Applicant Workflow — Google Apps Script applicant documentation workflow; private source repository" /></a>
+  <a href="https://github.com/almoatasembellah/applicant-workflow"><img src="./assets/projects/applicant-workflow-card.svg" width="100%" alt="Applicant Workflow — Google Apps Script applicant documentation workflow; private source repository" /></a>
 </p>
 
 <sub>Private source repository · sanitized project overview · source access is restricted.</sub>
