@@ -47,6 +47,12 @@ I'm a **backend developer and IT support engineer** with experience across appli
 A selection of repositories from my GitHub. The illustrations link directly to the source code.
 
 <p align="center">
+  <a href="https://github.com/almoatasembellah/law-firm"><img src="./assets/projects/law-firm.svg" width="100%" alt="Al Mahfouz Law Firm — live law firm website with contact requests and a role-based admin dashboard" /></a>
+</p>
+
+<sub>Live at <a href="https://almahfouzlawfirm.com">almahfouzlawfirm.com</a> · plain PHP MVC, MySQL, cPanel deployment.</sub>
+
+<p align="center">
   <a href="https://github.com/almoatasembellah/Ocean_books"><img src="./assets/projects/ocean-books.svg" width="49%" alt="Ocean Books — Laravel books and categories API, downloads and serial codes" /></a>
   <a href="https://github.com/almoatasembellah/Roqya"><img src="./assets/projects/roqya.svg" width="49%" alt="Roqya — Laravel user and therapist API with authentication and profiles" /></a>
 </p>
@@ -61,6 +67,21 @@ A selection of repositories from my GitHub. The illustrations link directly to t
 </p>
 
 <sub>Private source repository · sanitized project overview · source access is restricted.</sub>
+
+### 🆕 Latest repositories
+
+<!-- RECENT-REPOS:START -->
+| Repository | About | Language | Last update |
+| --- | --- | --- | --- |
+| [law-firm](https://github.com/almoatasembellah/law-firm) | — | HTML | 2026-11-21 |
+| [a-product-store](https://github.com/almoatasembellah/a-product-store) | — | HTML | 2024-07-23 |
+| [Notes](https://github.com/almoatasembellah/Notes) | — | PHP | 2024-07-23 |
+| [Invoices](https://github.com/almoatasembellah/Invoices) | — | JavaScript | 2023-09-03 |
+| [Books](https://github.com/almoatasembellah/Books) | — | PHP | 2023-07-28 |
+| [Ocean_books](https://github.com/almoatasembellah/Ocean_books) | — | PHP | 2023-07-26 |
+<!-- RECENT-REPOS:END -->
+
+<sub>This list updates itself every day from my newest public repositories.</sub>
 
 **More frontend and experiments:** [Bank Landing Page](https://github.com/almoatasembellah/Bank-landing-page.frontend) · [Product Store UI](https://github.com/almoatasembellah/a-product-store) · [Explore all repositories](https://github.com/almoatasembellah?tab=repositories)
 

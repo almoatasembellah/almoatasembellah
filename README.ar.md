@@ -29,6 +29,12 @@
 ## 🚀 مشروعات مختارة
 
 <p align="center">
+  <a href="https://github.com/almoatasembellah/law-firm"><img src="./assets/projects/law-firm.svg" width="100%" alt="Al Mahfouz Law Firm — موقع مكتب محاماة شغال أونلاين مع لوحة تحكم وصلاحيات" /></a>
+</p>
+
+<sub>الموقع شغال على <a href="https://almahfouzlawfirm.com">almahfouzlawfirm.com</a> · PHP MVC و MySQL ورفع على cPanel.</sub>
+
+<p align="center">
   <a href="https://github.com/almoatasembellah/Ocean_books"><img src="./assets/projects/ocean-books.svg" width="49%" alt="Ocean Books" /></a>
   <a href="https://github.com/almoatasembellah/Roqya"><img src="./assets/projects/roqya.svg" width="49%" alt="Roqya" /></a>
 </p>
@@ -43,6 +49,21 @@
 </p>
 
 <sub>المصدر محفوظ في مستودع خاص · الوصف المعروض عام ولا يتضمن بيانات المتقدمين أو ملفاتهم.</sub>
+
+### 🆕 أحدث المستودعات
+
+<!-- RECENT-REPOS:START -->
+| Repository | About | Language | Last update |
+| --- | --- | --- | --- |
+| [law-firm](https://github.com/almoatasembellah/law-firm) | — | HTML | 2026-11-21 |
+| [a-product-store](https://github.com/almoatasembellah/a-product-store) | — | HTML | 2024-07-23 |
+| [Notes](https://github.com/almoatasembellah/Notes) | — | PHP | 2024-07-23 |
+| [Invoices](https://github.com/almoatasembellah/Invoices) | — | JavaScript | 2023-09-03 |
+| [Books](https://github.com/almoatasembellah/Books) | — | PHP | 2023-07-28 |
+| [Ocean_books](https://github.com/almoatasembellah/Ocean_books) | — | PHP | 2023-07-26 |
+<!-- RECENT-REPOS:END -->
+
+<sub>القائمة دي بتتحدّث لوحدها كل يوم من أحدث المستودعات العامة.</sub>
 
 [صفحة بنك — Frontend](https://github.com/almoatasembellah/Bank-landing-page.frontend) · [واجهة متجر](https://github.com/almoatasembellah/a-product-store) · [كل المستودعات](https://github.com/almoatasembellah?tab=repositories)
 

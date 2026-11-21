@@ -1,0 +1,32 @@
+name: Update latest repositories
+
+on:
+  schedule:
+    - cron: "0 5 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/scripts/recent_repos.py"
+      - ".github/workflows/recent-repos.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python .github/scripts/recent_repos.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit changes
+        run: |
+          if git diff --quiet; then echo "No changes"; exit 0; fi
+          git config user.name "Al-Mutasim Bellah"
+          git config user.email "${{ github.repository_owner_id }}+${{ github.repository_owner }}@users.noreply.github.com"
+          git commit -am "Update latest repositories"
+          git push
