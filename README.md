@@ -73,7 +73,7 @@ A selection of repositories from my GitHub. The illustrations link directly to t
 <!-- RECENT-REPOS:START -->
 | Repository | About | Language | Last update |
 | --- | --- | --- | --- |
-| [law-firm](https://github.com/almoatasembellah/law-firm) | — | HTML | 2026-11-21 |
+| [law-firm](https://github.com/almoatasembellah/law-firm) | — | PHP | 2026-11-21 |
 | [a-product-store](https://github.com/almoatasembellah/a-product-store) | — | HTML | 2024-07-23 |
 | [Notes](https://github.com/almoatasembellah/Notes) | — | PHP | 2024-07-23 |
 | [Invoices](https://github.com/almoatasembellah/Invoices) | — | JavaScript | 2023-09-03 |
